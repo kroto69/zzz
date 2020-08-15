@@ -3,118 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://rott.netlify.app/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://rott.netlify.app/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://rott.netlify.app/en/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="https://rott.netlify.app/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://rott.netlify.app/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/googledork/</loc>
+    <loc>https://rott.netlify.app/en/tags/googledork/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/hugo/</loc>
+    <loc>https://rott.netlify.app/en/tags/hugo/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/</loc>
+    <loc>https://rott.netlify.app/en/posts/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://rott.netlify.app/en/tags/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="https://rott.netlify.app/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://rott.netlify.app/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/otodidak/</loc>
+    <loc>https://rott.netlify.app/en/posts/otodidak/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/edit-file-hosts/</loc>
+    <loc>https://rott.netlify.app/en/posts/edit-file-hosts/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/</loc>
+    <loc>https://rott.netlify.app/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/</loc>
+    <loc>https://rott.netlify.app/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/archive/</loc>
+    <loc>https://rott.netlify.app/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/about/</loc>
+    <loc>https://rott.netlify.app/en/about/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://rott.netlify.app/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="https://rott.netlify.app/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://rott.netlify.app/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/index/</loc>
+    <loc>https://rott.netlify.app/en/tags/index/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>https://rott.netlify.app/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="https://rott.netlify.app/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://rott.netlify.app/en/series/"
                 />
   </url>
   
