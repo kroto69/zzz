@@ -56,7 +56,7 @@ Kali ini saya bagikan simple  Google Dork  untuk mencari beberapa Materi yang mu
 Contoh Google Dork: intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;Mikrotik&amp;quot; intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;Sysadmin&amp;quot; intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;materi yang ingin anda cari&amp;quot;   Ribet?</description>
         
         <dc:creator>rot</dc:creator>
-        <media:content url="https://rott.netlify.appimages/feature2/otodidak004.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rott.netlify.app/images/feature2/otodidak004.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -86,7 +86,7 @@ Ya sesuai title, kali ini saya akan membahas gimana sih caranya edit file hosts 
 Apa itu File Hosts?   Menurut wikipedia  File Hosts adalah file computer yang digunakan oleh sistem operasi untuk memetakan hostname ke IP address. File Hosts berbentuk file text biasa (plain-text) dan nama filenya dinamakan dengan “hosts”.   </description>
         
         <dc:creator>rot</dc:creator>
-        <media:content url="https://rott.netlify.appimages/feature2/hosts.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rott.netlify.app/images/feature2/hosts.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
