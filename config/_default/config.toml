@@ -1,4 +1,4 @@
-baseURL = "https://rott.netlify.app"
+baseURL = "https://rott.netlify.app/en/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
 
