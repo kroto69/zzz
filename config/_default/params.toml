@@ -1,6 +1,6 @@
   logoText = "Ke r00t"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "Blog tulisan Gabut"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
