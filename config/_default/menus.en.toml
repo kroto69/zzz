@@ -1,0 +1,18 @@
+[[main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "posts"
+  weight = 1
+
+[[main]]
+  identifier = "Tutor"
+  name = "Tutor"
+  url = "showcase"
+  weight = 2
+
+[[main]]
+  identifier = "about"
+  name = "About"
+  url = "about"
+  weight = 3
+
