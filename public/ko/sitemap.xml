@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rott.netlify.app/ko/categories/</loc>
+    <loc>https://rott.netlify.app/en/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rott.netlify.app/en/categories/"
+                href="https://rott.netlify.app/en/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://rott.netlify.app/ko/categories/"
+                href="https://rott.netlify.app/en/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://rott.netlify.app/ko/</loc>
+    <loc>https://rott.netlify.app/en/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rott.netlify.app/en/"
+                href="https://rott.netlify.app/en/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://rott.netlify.app/ko/"
+                href="https://rott.netlify.app/en/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://rott.netlify.app/ko/series/</loc>
+    <loc>https://rott.netlify.app/en/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rott.netlify.app/en/series/"
+                href="https://rott.netlify.app/en/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://rott.netlify.app/ko/series/"
+                href="https://rott.netlify.app/en/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>https://rott.netlify.app/ko/tags/</loc>
+    <loc>https://rott.netlify.app/en/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://rott.netlify.app/en/tags/"
+                href="https://rott.netlify.app/en/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://rott.netlify.app/ko/tags/"
+                href="https://rott.netlify.app/en/ko/tags/"
                 />
   </url>
   

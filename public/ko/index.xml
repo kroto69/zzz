@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>https://rott.netlify.app/ko/</link>
+    <link>https://rott.netlify.app/en/ko/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>beequll96@gmail.com (Kerot)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://rott.netlify.app/ko/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rott.netlify.app/en/ko/index.xml" rel="self" type="application/rss+xml" />
     
     
     

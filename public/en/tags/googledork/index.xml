@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>googledork on Hugo Zzo Theme</title>
-    <link>https://rott.netlify.app/en/tags/googledork/</link>
+    <link>https://rott.netlify.app/en/en/tags/googledork/</link>
     <description>Recent content in googledork on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://rott.netlify.app/en/tags/googledork/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rott.netlify.app/en/en/tags/googledork/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,18 +24,18 @@
       
       <item>
         <title>Tips Mencari file Materi untuk Belajar &#39;Otodidak&#39;</title>
-        <link>https://rott.netlify.app/en/posts/otodidak/</link>
+        <link>https://rott.netlify.app/en/en/posts/otodidak/</link>
         <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
         <author>beequll96@gmail.com (Kerot)</author>
         <atom:modified>Fri, 07 Aug 2020 00:00:00 +0000</atom:modified>
-        <guid>https://rott.netlify.app/en/posts/otodidak/</guid>
+        <guid>https://rott.netlify.app/en/en/posts/otodidak/</guid>
         <description>Hallo bos, Udah pada ngopi ☕ belum ???
 Ngomong ngmonong soal belajar , dimasa pandemi ini kita diharuskan untuk bisa belajar mandiri/ otodidak. Tapi terkadang kita kesulitan untuk mendcari materi yang ingin dipelajari.
 Kali ini saya bagikan simple  Google Dork  untuk mencari beberapa Materi yang mungkin anda butuhkan sebagai bahan belajar dalam bentuk pdf/doc/ppt.
 Contoh Google Dork: intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;Mikrotik&amp;quot; intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;Sysadmin&amp;quot; intitle:&amp;quot;index /of&amp;quot; intext:&amp;quot;pdf|docx|pptx&amp;quot; intext:&amp;quot;materi yang ingin anda cari&amp;quot;   Ribet?</description>
         
         <dc:creator>rot</dc:creator>
-        <media:content url="https://rott.netlify.appimages/feature2/otodidak004.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://rott.netlify.app/en/images/feature2/otodidak004.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
